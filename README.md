@@ -19,3 +19,21 @@ tensorflow
 numpy
 tensorboard
 ```
+
+Also for the notebook ipython/jupyter.
+
+### Download
+
+Clone/Fork repository:
+```
+>> git clone https://github.com/compgi13/tutorial.git
+```
+
+Go to the folder and start a session:
+```
+>> cd tutorial
+>> ipython notebook
+```
+
+Select the notebook you want and run through the tutorial.
+
