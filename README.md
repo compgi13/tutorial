@@ -20,7 +20,7 @@ numpy
 tensorboard
 ```
 
-Also for the notebook ipython/jupyter.
+Also a working installation of ipython/jupyter.
 
 ### Download
 
