@@ -5,6 +5,8 @@ Some basic usage:
 * Example on Model Building and Training
 * Tracking accuracy and loss function during training and visualizing them using TensorBoard
 
+![Image](tensorboard_screenshot.png)
+
 More resources and examples (on MNIST), if you are still struggling:
 * Logistic Regression [sample code](https://github.com/dianaborsa/TensorFlow_Examples/blob/master/ex1_logistic_regression.py)
 * NN [sample code](https://github.com/dianaborsa/TensorFlow_Examples/blob/master/ex2_nn.py)
