@@ -3,6 +3,7 @@
 Some basic usage:
 * Constants, Variables, Placeholders
 * Example on Model Building and Training
+* Example on Saving and Restoring Saved Models/Variables
 * Tracking accuracy and loss function during training and visualizing them using TensorBoard
 
 ![Image](tensorboard_screenshot.png)
